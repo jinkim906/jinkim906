@@ -1,16 +1,16 @@
-## Hi there 👋
+# 안녕하세요, jinkim906입니다
 
-<!--
-**jinkim906/jinkim906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LLM 서비스의 보안과 응답 신뢰성을 다루는 프로젝트를 진행했습니다. Python으로 방어 및 평가 기능을 구현하고, 실험 조건과 결과를 문서로 정리했습니다.
 
-Here are some ideas to get you started:
+## 프로젝트
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### LLM 서비스의 방어 효과 평가 · 졸업작품
+
+같은 입력에서 기본 보호와 추가 방어를 비교하는 평가 시스템을 만들었습니다. 외부 문서가 답변에 미치는 영향, 기밀 정보 노출, 권한 없는 도구 요청을 점검하면서 정상 요청의 정확도와 문서 보존율도 측정했습니다.
+
+- **구현** · Python으로 평가와 방어 경로를 만들고, Streamlit에서 모델 원문·앱 전달 답변·모의 실행 기록을 확인할 수 있게 했습니다.
+- **검증** · 로컬 Ollama에서 Qwen·Llama·Mistral을 사용해 조건별 결과를 비교했습니다.
+
+### web1 · 웹 기초 실습
+
+HTML·CSS·JavaScript 개념을 소개하는 정적 웹 페이지를 만들었습니다. 첫 화면과 주제별 페이지를 링크로 연결했습니다. [저장소 보기](https://github.com/jinkim906/web1)
