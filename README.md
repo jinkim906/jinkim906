@@ -11,6 +11,10 @@ LLM 서비스의 보안과 응답 신뢰성을 다루는 프로젝트를 진행�
 - **구현** · Python으로 평가와 방어 경로를 만들고, Streamlit에서 모델 원문·앱 전달 답변·모의 실행 기록을 확인할 수 있게 했습니다.
 - **검증** · 로컬 Ollama에서 Qwen·Llama·Mistral을 사용해 조건별 결과를 비교했습니다.
 
+### Contest Hub · 팀 프로젝트
+
+React와 Vite로 만든 공모전·해커톤 정보 웹앱에 기여했습니다. 해커톤 상세 화면을 수정하고, 목록과 로그인 화면의 상태 표시를 다듬었습니다. [팀 저장소 보기](https://github.com/sangwooking/contest-hub)
+
 ### web1 · 웹 기초 실습
 
 HTML·CSS·JavaScript 개념을 소개하는 정적 웹 페이지를 만들었습니다. 첫 화면과 주제별 페이지를 링크로 연결했습니다. [저장소 보기](https://github.com/jinkim906/web1)
